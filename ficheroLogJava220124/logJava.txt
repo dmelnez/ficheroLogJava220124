@@ -1,0 +1,1 @@
+Entrar en modo EmpleadoEl empleado se le enviara al Menu Principal
